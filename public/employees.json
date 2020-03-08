@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Isabel", 
+        "surname": "Holland", 
+        "section": "IT", 
+        "paymentAmount": "3000", 
+        "currency": "PLN"
+    },
+    {
+        "name": "Molly", 
+        "surname": "Warburton", 
+        "section": "Administration", 
+        "paymentAmount": "2400.50", 
+        "currency": "PLN"},
+    {
+        "name": "Christopher", 
+        "surname": "Erickson", 
+        "section": "IT", 
+        "paymentAmount": "3300", 
+        "currency": "PLN"},
+    {
+        "name": "Shawn", 
+        "surname": "Campbell", 
+        "section": "Administration", 
+        "paymentAmount": "2100", 
+        "currency": "PLN"
+    },
+    {
+        "name": "Kathie", 
+        "surname": "Bennett", 
+        "section": "Merchant", 
+        "paymentAmount": "3100", 
+        "currency": "PLN"
+    }
+]
