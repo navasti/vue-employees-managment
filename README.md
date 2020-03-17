@@ -1,22 +1,19 @@
-## Project setup
+## Workforce Management
+Simple application whitch allows you to manage employees by adding and deleting them and witch calculates employee payments.
+
+## Getting Started
+Install node_modules folder
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+Run the application
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Used Technologies
+* JSON
+* HTML
+* Some CSS
+* JavaScript - Vue
