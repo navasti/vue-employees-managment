@@ -16,7 +16,7 @@
     "@vue/cli-service": "^4.2.0",
     "babel-eslint": "^10.0.3",
     "yargs-parser": ">=18.1.2",
-    "node-forge": ">=0.10.0",
+    "node-forge": ">=1.0.0",
     "acorn": "^7.1.1",
     "core-js": "^3.6.4",
     "minimist": "^1.2.5",
